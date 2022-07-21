@@ -1,32 +1,32 @@
 # Prerequisites
-*.d
+SFML/*.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+SFML/*.slo
+SFML/*.lo
+SFML/*.o
+SFML/*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+SFML/*.gch
+SFML/*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+SFML/*.so
+SFML/*.dylib
+SFML/*.dll
 
 # Fortran module files
-*.mod
-*.smod
+SFML/*.mod
+SFML/*.smod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+SFML/*.lai
+SFML/*.la
+SFML/*.a
+SFML/*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+SFML/*.exe
+SFML/*.out
+SFML/*.app
